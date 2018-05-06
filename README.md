@@ -7,8 +7,8 @@
 1：下载
 
 ```txt
-git clone https://github.com/helpcode/vue-web-tools.git
-cd vue-web-tools/
+git clone https://github.com/2991997564/WebTools.git
+cd WebTools/
 ```
 
 2：解决依赖并运行
